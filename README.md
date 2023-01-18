@@ -1,8 +1,11 @@
 ## Bem-vindo(a) 😁
 
  <div>
-   <a href="https://github.com/SabrinaSouzass1">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SabrinaSouzass1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/SabrinaSouzass1">
+   
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SabrinaSouzass1&theme=tokyonight&show_icons=true)"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabrinaSouzass1&layout=compact&langs_count=6&theme=tokyonight"/>
+
  
 </div>
 <div style="display: inline_block"><br>
